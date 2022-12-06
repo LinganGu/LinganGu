@@ -22,7 +22,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top">
 
 ### DevOps  
 <div align="center">  
@@ -40,5 +39,4 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 <br/>    
