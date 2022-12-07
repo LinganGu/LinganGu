@@ -5,16 +5,16 @@
 </div>  
   
 
-### <div align="center">I'm LinganGu, a full-time full-stack developer 👨‍💻 working since 2016 🚀</div>  
+### <div align="center">I'm LinganGu, a full-time research analyst 👨‍💻 working since 2016 🚀</div>  
   
 
-- 👀 I’m interested in MIR and NLP  
+- 👀 I’m interested in Network and NLP
   
 
-- 🌱  I’m currently learning Linguistics  
-  
+- 🌱  I’m currently working on Linguistics and digital health 
+ 
 
-- ⚡ I’m looking to collaborate on Automatic music transcription  
+- ⚡ I’m looking to collaborate on network analysis.
   
 
 - 📫 You can reach me at my e-mail address (lingangu79@gmail.com)  
